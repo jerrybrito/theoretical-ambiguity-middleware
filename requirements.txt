@@ -1,0 +1,2 @@
+# Requires: circular-inertia
+# (Not available on PyPI)
